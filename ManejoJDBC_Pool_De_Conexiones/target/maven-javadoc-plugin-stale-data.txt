@@ -1,0 +1,61 @@
+/app/jdk/bin/javadoc
+@options
+@packages
+-classpath
+'/home/skr/.m2/repository/mysql/mysql-connector-java/8.0.23/mysql-connector-java-8.0.23.jar:/home/skr/.m2/repository/com/google/protobuf/protobuf-java/3.11.4/protobuf-java-3.11.4.jar:/home/skr/.m2/repository/org/apache/commons/commons-dbcp2/2.7.0/commons-dbcp2-2.7.0.jar:/home/skr/.m2/repository/org/apache/commons/commons-pool2/2.7.0/commons-pool2-2.7.0.jar:/home/skr/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/home/skr/Documentos/Universidad_Spring_Ejercicios/JavaJDBC/ManejoJDBC_Pool_De_Conexiones/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/skr/Documentos/Universidad_Spring_Ejercicios/JavaJDBC/ManejoJDBC_Pool_De_Conexiones/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'ManejoJDBC 1.0 API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' '/home/skr/Documentos/Universidad_Spring_Ejercicios/JavaJDBC/ManejoJDBC_Pool_De_Conexiones/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'ManejoJDBC 1.0 API'
+test
+test
+datos
+datos
+datos
+datos
+domain
+domain
+/home/skr/.m2/repository/mysql/mysql-connector-java/8.0.23/mysql-connector-java-8.0.23.jar = 1611598077184
+/home/skr/.m2/repository/com/google/protobuf/protobuf-java/3.11.4/protobuf-java-3.11.4.jar = 1611598080710
+/home/skr/.m2/repository/org/apache/commons/commons-dbcp2/2.7.0/commons-dbcp2-2.7.0.jar = 1611774394167
+/home/skr/.m2/repository/org/apache/commons/commons-pool2/2.7.0/commons-pool2-2.7.0.jar = 1611774394349
+/home/skr/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar = 1611774394243
+/home/skr/Documentos/Universidad_Spring_Ejercicios/JavaJDBC/ManejoJDBC_Pool_De_Conexiones/src/main/java = 1611774166515
+/home/skr/Documentos/Universidad_Spring_Ejercicios/JavaJDBC/ManejoJDBC_Pool_De_Conexiones/target/site/apidocs/package-search-index.zip = 1611776250806
+/home/skr/Documentos/Universidad_Spring_Ejercicios/JavaJDBC/ManejoJDBC_Pool_De_Conexiones/target/site/apidocs/index.html = 1611776250856
+/home/skr/Documentos/Universidad_Spring_Ejercicios/JavaJDBC/ManejoJDBC_Pool_De_Conexiones/target/site/apidocs/overview-tree.html = 1611776250697
+/home/skr/Documentos/Universidad_Spring_Ejercicios/JavaJDBC/ManejoJDBC_Pool_De_Conexiones/target/site/apidocs/member-search-index.js = 1611776250808
+/home/skr/Documentos/Universidad_Spring_Ejercicios/JavaJDBC/ManejoJDBC_Pool_De_Conexiones/target/site/apidocs/member-search-index.zip = 1611776250809
+/home/skr/Documentos/Universidad_Spring_Ejercicios/JavaJDBC/ManejoJDBC_Pool_De_Conexiones/target/site/apidocs/type-search-index.js = 1611776250807
+/home/skr/Documentos/Universidad_Spring_Ejercicios/JavaJDBC/ManejoJDBC_Pool_De_Conexiones/target/site/apidocs/search.js = 1611776250882
+/home/skr/Documentos/Universidad_Spring_Ejercicios/JavaJDBC/ManejoJDBC_Pool_De_Conexiones/target/site/apidocs/stylesheet.css = 1611776250874
+/home/skr/Documentos/Universidad_Spring_Ejercicios/JavaJDBC/ManejoJDBC_Pool_De_Conexiones/target/site/apidocs/allclasses-index.html = 1611776250829
+/home/skr/Documentos/Universidad_Spring_Ejercicios/JavaJDBC/ManejoJDBC_Pool_De_Conexiones/target/site/apidocs/allpackages-index.html = 1611776250833
+/home/skr/Documentos/Universidad_Spring_Ejercicios/JavaJDBC/ManejoJDBC_Pool_De_Conexiones/target/site/apidocs/allclasses.html = 1611776250848
+/home/skr/Documentos/Universidad_Spring_Ejercicios/JavaJDBC/ManejoJDBC_Pool_De_Conexiones/target/site/apidocs/script.js = 1611776250876
+/home/skr/Documentos/Universidad_Spring_Ejercicios/JavaJDBC/ManejoJDBC_Pool_De_Conexiones/target/site/apidocs/index-all.html = 1611776250813
+/home/skr/Documentos/Universidad_Spring_Ejercicios/JavaJDBC/ManejoJDBC_Pool_De_Conexiones/target/site/apidocs/element-list = 1611776250418
+/home/skr/Documentos/Universidad_Spring_Ejercicios/JavaJDBC/ManejoJDBC_Pool_De_Conexiones/target/site/apidocs/help-doc.html = 1611776250867
+/home/skr/Documentos/Universidad_Spring_Ejercicios/JavaJDBC/ManejoJDBC_Pool_De_Conexiones/target/site/apidocs/deprecated-list.html = 1611776250843
+/home/skr/Documentos/Universidad_Spring_Ejercicios/JavaJDBC/ManejoJDBC_Pool_De_Conexiones/target/site/apidocs/constant-values.html = 1611776250485
+/home/skr/Documentos/Universidad_Spring_Ejercicios/JavaJDBC/ManejoJDBC_Pool_De_Conexiones/target/site/apidocs/package-search-index.js = 1611776250801
+/home/skr/Documentos/Universidad_Spring_Ejercicios/JavaJDBC/ManejoJDBC_Pool_De_Conexiones/target/site/apidocs/overview-summary.html = 1611776250859
+/home/skr/Documentos/Universidad_Spring_Ejercicios/JavaJDBC/ManejoJDBC_Pool_De_Conexiones/target/site/apidocs/type-search-index.zip = 1611776250808

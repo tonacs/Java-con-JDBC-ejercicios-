@@ -1,0 +1,4 @@
+jdbc:mysql://localhost:3306/test?zeroDateTimeBehavior=convertToNull&useSSL=false&useTimezone=true&serverTimezone=UTC
+
+En algunos casos deben agregar lo siguiente también:
+jdbc:mysql://localhost:3306/test?zeroDateTimeBehavior=convertToNull&useSSL=false&useTimezone=true&serverTimezone=UTC&allowPublicKeyRetrieval=true

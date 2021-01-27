@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"datos","l":"Conexion"},{"p":"test","l":"ManejoPersonas"},{"p":"test","l":"ManejoUsuarios"},{"p":"datos","l":"PersonaDao"},{"p":"datos","l":"PersonaDaoJDBC"},{"p":"domain","l":"PersonaDTO"},{"p":"domain","l":"Usuario"},{"p":"datos","l":"UsuarioJDBC"}]
